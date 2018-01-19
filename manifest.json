@@ -1,0 +1,25 @@
+{
+	"name": "QuickDark",
+	"version": "0.0.1",
+	"author": "Jure Pokeržnik",
+	"manifest_version": 2,
+	"description": "Make sites darker.",
+	"icons": {
+		"128": "icon.png"
+	},
+	"browser_action": {
+		//"default_popup": "parse.html"
+	},
+	"permissions": [
+		"tabs",
+		"https://*/*",
+		"http://*/*"
+	],
+	"content_scripts": [
+		{
+			"run_at": "document_end",
+			"matches": ["https://www.messenger.com/*", "https://www.facebook.com/*", "https://www.google.com/*", "https://www.google.si/*"],
+			"css": ["dark.css"]
+		}
+	]
+}

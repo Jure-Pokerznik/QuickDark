@@ -1,0 +1,40 @@
+/* FACEBOOK MESSENGER */
+._4sp8 { /*Body background*/
+    background-color: #5a5a5a !important;
+}
+._hh7 { /*Baloon received background*/
+    background-color: #ababab !important;
+    /*Baloon received text*/
+    color: white !important;
+}
+
+/* FACEBOOK */
+._5vb_, ._5vb_ #contentCol {/*Body background*/
+    background-color: #5a5a5a !important;
+}
+._2s1x ._2s1y { /*Top "blue" header*/
+    background-color: #3e3e3e !important;
+}
+
+/* GOOGLE SEARCH */
+body { /*google results*/
+    background: #a1a1a1 !important;
+}
+._Fmb, ._Fmb:hover, ._Fmb.selected, ._Fmb.selected:hover { /*icon next to link*/
+    background-color: #a1a1a1 !important;
+}
+.s .st em, .st.s.std em { /*highlighted word*/
+    color: black !important;
+}
+#appbar { 
+    background: #a1a1a1 !important;
+}
+#hdtbSum { /*navigation menu*/
+    background: #a1a1a1 !important;
+}
+g-inner-card { /*"Top stories"*/
+    background-color: #a1a1a1 !important;
+}
+#hdtb { /*Line between navigation menu and results*/
+    border-bottom: 1px solid #a1a1a1 !important;
+}
