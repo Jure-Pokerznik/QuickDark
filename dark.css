@@ -1,10 +1,42 @@
 /* LOCAL */
-body { /*Local background*/
+body { /*Local background*/ /*can also apply on other sites*/
     background-color: #a1a1a1 !important;
 }
-h1 {
-    border-bottom: 1px dashed white !important;
+
+/* ALIEXPRESS */
+.top-lighthouse { /*top background color*/
+    border-bottom: 1px dashed orange !important;
+    background-color: #a1a1a1 !important;
 }
+.nav-global .ng-item { /*top lighthouse right border line*/
+    border-right: 1px solid #a1a1a1 !important;
+}
+.nav-global .ng-item a { /*top font color*/
+    color: #000 !important;
+}
+.nav-global .ng-sub-title, .nav-global .ng-switcher .switcher-info { /*top font color help*/
+    color: #000 !important;
+}
+.nav-global .ng-sub-list li a:hover { /*help hover*/
+    background: red !important;
+    color: purple !important;
+}
+#broad-category { /*background*/
+    background-color: #a1a1a1 !important;
+}
+.header { /*header*/
+    background-color: #a1a1a1 !important;
+    border-bottom: 1px dashed orange !important;
+}
+.site-footer {
+    background-color: #a1a1a1 !important;
+}
+.searchbar-form .search-key-box input { /*search*/
+    background-color: #a1a1a1 !important;
+}
+
+/* AMAZON */
+
 
 /* GITHUB */
 .user-profile-nav { /*Profile navigation*/
@@ -33,6 +65,15 @@ h3 .bg-white { /*override*/
 h3.profile-timeline-month-heading, .bg-white, .d-inline-block, .h6, .pr-2, .py-1{ /*override*/
     background-color: #a1a1a1 !important;
 }
+.Header .header-search-scope { /*"This Repository" next to search*/
+    color: rgba(0, 0, 0, 1.00) !important;
+}
+.Header .header-search-wrapper {/*Search box font*/
+    color: black !important;
+}
+.octofication .broadcast-icon-mask { /*radio tower icon mask front page*/
+    background-color: #a1a1a1 !important;
+}
 
 /* FACEBOOK MESSENGER */
 ._4sp8 { /*Body background*/
@@ -56,6 +97,9 @@ h3.profile-timeline-month-heading, .bg-white, .d-inline-block, .h6, .pr-2, .py-1
 body { /*google results*/
     background: #a1a1a1 !important;
 }
+.sfbgg { /*top border*/
+    background-color: #a1a1a1 !important;
+}
 ._Fmb, ._Fmb:hover, ._Fmb.selected, ._Fmb.selected:hover { /*icon next to link*/
     background-color: #a1a1a1 !important;
 }
@@ -72,5 +116,35 @@ g-inner-card { /*"Top stories"*/
     background-color: #a1a1a1 !important;
 }
 #hdtb { /*Line between navigation menu and results*/
+    border-bottom: 1px solid #a1a1a1 !important;
+}
+._qgo { /*people also ask*/
+    background-color: #a1a1a1 !important;
+    border-top: 1px solid #a1a1a1 !important; /*line above questions*/
+}
+.sbib_a { /*search input*/
+    background: #a1a1a1 !important;
+}
+.sbico-c { /*search icon*/
+    background: #a1a1a1 !important;
+}
+.sbibod {
+    background-color: #a1a1a1 !important;
+}
+a._sWr { /*search dropdown feedback background*/
+    padding: 0 5px;
+    background: #a1a1a1 !important;
+}
+a.duf3 { /*dropdown feedback text*/
+    color: black !important;
+}
+#fbar { /*footer + line*/
+    background: #a1a1a1 !important;
+    border-top: 1px solid #a1a1a1 !important;
+}
+._HR { /*footer location color*/
+    color: #000 !important;
+}
+._Ubu { /*footer line*/
     border-bottom: 1px solid #a1a1a1 !important;
 }

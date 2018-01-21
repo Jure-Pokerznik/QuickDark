@@ -15,7 +15,17 @@
 	"content_scripts": [
 		{
 			"run_at": "document_end",
-			"matches": ["https://*.github.com/*", "https://github.com/*", "file:///*", "https://www.messenger.com/*", "https://www.facebook.com/*", "https://www.google.com/*", "https://www.google.si/*"],
+			"matches": [
+						"https://www.amazon.com/*",
+						"https://www.aliexpress.com/*",
+						"https://*.github.com/*",
+						"https://github.com/*",
+						"file:///*",
+						"https://www.messenger.com/*",
+						"https://www.facebook.com/*",
+						"https://www.google.com/*",
+						"https://www.google.si/*"
+					],
 			"css": ["dark.css"]
 		}
 	]
