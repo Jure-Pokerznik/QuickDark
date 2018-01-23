@@ -1,6 +1,7 @@
 /* LOCAL */
 body { /*Local background*/ /*can also apply on other sites*/
     background-color: #a1a1a1 !important;
+    color: white; /*font color FACEBOOK */
 }
 
 /* ALIEXPRESS */
@@ -87,11 +88,134 @@ h3.profile-timeline-month-heading, .bg-white, .d-inline-block, .h6, .pr-2, .py-1
 
 /* FACEBOOK */
 ._5vb_, ._5vb_ #contentCol {/*Body background*/
-    background-color: #5a5a5a !important;
+    background-color: #242424 !important;
 }
 ._2s1x ._2s1y { /*Top "blue" header*/
     background-color: #3e3e3e !important;
 }
+._4-u8 { /*all panels*/
+    background-color: #242424 !important; 
+}
+._3ubp { /*make a post top*/
+    background-color: #242424 !important;
+    border-bottom: 1px solid #242424 !important;
+}
+._sg1 { /*make a post top background*/
+    background-color: #242424 !important;
+    border-left: 1px solid #242424 !important;
+}
+/*#facebook ._-kb span { /*most main colors text
+    color: white !important;
+}*/
+.fbReminders .fbRemindersStory .fbRemindersTitle {  /*reminders text*/
+    color: white !important;
+}
+._6m2 { /*Post body background*/
+    background-color: #242424 !important;
+}
+/*a {
+    color: #ffffff !important;
+}*/
+._1g5v+._4arz { /*Likes background color*/
+    background: #242424 !important;
+}
+._ipo { /*x comments x shares background color*/
+    background: #242424 !important;
+}
+._5v3q .n_11h-y_7rwe .t_11h-y_f0d- { /*"Sponsored" text bright red to pop*/
+    color: #e80000 !important;
+}
+._517h, ._59pe:focus, ._59pe:hover { /*Learn More button on Sponsored post*/
+    background-color: #242424 !important;
+}
+._517h:hover { /*Learn More button hover*/
+    background-color: #3e3e3e !important;
+}
+._3-a6._1blz._5vsj .UFIRow, ._3-a6._1blz._5vsj.UFIContainer .UFIReplyList .UFIRow, ._3-a6._1blz._5vsj._5vsj._5vsj {
+    background-color: #242424 !important;
+}
+._37uu ._610i ._4x9_, ._37uu ._610i._a7s ._524d a, ._37uu ._610i._a7s ._50u4, ._37uu ._610i ._1ysv, ._1-26 ._4x9_ {
+    color: #ffffff !important; /*like text*/
+}
+html ._4lh, ._4lh .fbTimelineTimePeriod, ._4lh .fbTimelineSectionExpandPager .uiMorePagerLoader, ._4lh .fbTimelineCapsule li.anchorUnit:last-child, ._4lh .fbTimelineSectionLoading .loadingIndicator {
+    background-color: #242424 !important; /*user page middle background color*/
+}
+.fbTimelineSection {
+    background: #242424 !important; /*user page menu*/
+}
+html ._6-d .fbTimelineSection { /*user page border white*/
+    border: 1px solid #ffffff !important;
+    border-radius: 0 0 3px 3px;
+}
+._50f9 {
+    color: white !important; /*font color intro user profile*/
+}
+.fbTimelineUnit {
+    color: #ffffff !important; /*font color intro user profile*/
+}
+html ._4lh ._1zw6 { /*font color intro info user profile*/
+    color: #ffffff !important;
+}
+._513x { /*user profile arrow hide*/
+    width: 0px !important;
+}
+._bui ._5afe { /*main sidepanel text*/
+    border-bottom: 1px solid #fff;
+    color: #ffffff !important;
+}
+._5vb_, ._5vb_ #contentCol { /*font color main*/
+    color: white !important;
+}
+._16ve {
+    border-top: 1px solid #545454 !important; /*border*/
+}
+._3z2 { /*event background*/
+    background-color: #242424 !important;
+}
+._5a5j { /*event date background*/
+    background: #242424 !important;
+}
+.fbNub._50mz .fbNubFlyoutBody { /*facebook chat popup window background*/
+    background-color: #242424 !important;
+}
+._552m::-webkit-input-placeholder, .fbNub._50mz ._1p1t {/*chat color text*/
+    color: #ffffff !important;
+}
+.fbNub._50mz .fbNubFlyoutFooter { /*chat color bottom*/
+    background: #242424 !important;
+}
+.fbNub._50mz .chatAttachmentShelf { /*chat bottom*/
+    background-color: #242424 !important;
+    border-top: 1px solid #242424 !important;
+}
+element.style { /*ALL COLORS #TODO*/
+    color: rgb(60, 255, 0) !important;
+}
+.fbNub._50mz.highlightTab .fbNubButton, .fbNub._50mz .fbNubFlyoutTitlebar { /*color chat name*/
+    background: #3e3e3e !important;
+}
+.fbNub._50mz .titlebar .titlebarText, .fbNub._50mz.highlightTab .fbNubButton .name, .fbNub._50mz.highlightTab .fbNubButton, .fbNub._50mz.focusedTab .fbNubButton .name {
+    color: white !important; /*chat name color*/
+}
+/*cancer greys*/
+._ei_{background:#242424!important;} /*bottom post*/
+._57d8 {background-color: #242424 !important;}
+._m_1{background:#3e3e3e !important;} /*Buttons main*/
+/*testing   This makes my chrome unstable for some reason..
+._sig{background-color:red !important;}
+._26y3{background-color:green !important;}
+._o1t{background-color:blue !important;}
+._awf{background:violet !important;}
+.seeMore{background:yellow !important;}
+._4h7j{background-color: teal !important;}
+._26bz{background-color:green !important;}
+._645l{background-color:red !important;}
+._645l{background-color:yellow !important;} */
+
+
+
+/*Facebook buttons: #F6F7F9*/
+
 
 /* GOOGLE SEARCH */
 body { /*google results*/
@@ -147,4 +271,20 @@ a.duf3 { /*dropdown feedback text*/
 }
 ._Ubu { /*footer line*/
     border-bottom: 1px solid #a1a1a1 !important;
+}
+.ktf { /*search result search*/
+    background-color: #a1a1a1 !important;
+}
+.ab_button {
+    background-color: #a1a1a1 !important;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#a1a1a1),to(#a1a1a1)) !important;
+    background-image: -webkit-linear-gradient(top,#a1a1a1,#a1a1a1) !important;
+}
+._zF, .mslg .ab_button, .mslg .kpgrb {
+    border: 1px solid grey !important;
+    border-top: 1px solid grey !important;
+    z-index: 1;
+}
+input { /*search result result border*/
+    border-color: grey !important;
 }
