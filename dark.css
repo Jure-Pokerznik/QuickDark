@@ -1,7 +1,11 @@
 /* LOCAL */
 body { /*Local background*/ /*can also apply on other sites*/
-    background-color: #a1a1a1 !important;
-    color: white; /*font color FACEBOOK */
+    background-color: #242424 !important;
+    color: white !important; /*font color FACEBOOK */
+}
+input{
+    color:white !important;
+    background-color: #242424 !important;
 }
 
 /* ALIEXPRESS */
@@ -35,7 +39,6 @@ body { /*Local background*/ /*can also apply on other sites*/
 .searchbar-form .search-key-box input { /*search*/
     background-color: #a1a1a1 !important;
 }
-
 /* AMAZON */
 
 
@@ -78,14 +81,134 @@ h3.profile-timeline-month-heading, .bg-white, .d-inline-block, .h6, .pr-2, .py-1
 
 /* FACEBOOK MESSENGER */
 ._4sp8 { /*Body background*/
-    background-color: #5a5a5a !important;
+    background-color: #242424 !important;
 }
 ._hh7 { /*Baloon received background*/
-    background-color: #ababab !important;
+    background-color: #3e3e3e !important;
     /*Baloon received text*/
     color: white !important;
 }
-
+._3m31:nth-of-type(2n+1) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(2n+2) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(2n+3) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(2n) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(3n) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(3n+1) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(3n+2) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+    border-left: 2px solid #242424 !important;
+}
+._3m31:nth-of-type(3n+3) { /*between pictures*/
+    border-right: 2px solid #242424 !important;
+    border-left: 2px solid #242424 !important;
+}
+._3oh-{
+    color: white !important; /*chat name*/
+}
+._1tqi{
+    color: white !important; /*top*/
+}
+._3eus{
+    color: white !important; /*active x ago*/
+}
+._3szq {
+    color: white !important; /*left hand links top*/
+}
+._1lj0{ /*info left top*/
+    color: white !important;
+}
+input, ._58al{ /*search*/
+    color: white !important;
+    }
+._2v6o{ /*active on top*/
+    color: white !important;
+    }
+._1ht6 {
+    color: white !important;
+}
+._1ht7{
+    color: white !important;
+}
+._58al{
+    color: white !important;
+}
+._2f5n { /*tenor keyboard background*/
+    background-color: #242424 !important;
+}
+._2f5n ._29ey { /*tenor text*/
+    color: white !important;
+}
+._558b ._54ng { /*setting button top left popup background color*/
+    background-color: #242424 !important;
+}
+._53il ._558b+._53io { /*hide triangle*/
+    height: 0px !important;
+    top: 0px !important;
+    width: 0px !important;
+}
+._2i-c ._54nf ._54nh {
+    color: white !important; /*settings menu white color*/
+}
+._54ne:hover{
+    background-color: #3e3e3e !important;
+}
+._54ne{
+    background-color: #3e3e3e !important;
+}
+._2i-{
+    background-color: #3e3e3e !important;
+}
+._2i-:hover{
+    background-color: #3e3e3e !important;
+}
+._2i-c ._54ne ._21-c ._54ne ._54nc ._21- ._54ne{
+    background-color: #3e3e3e !important;
+}
+._2i-c ._54ne ._54nh{
+    background-color: #3e3e3e !important;
+}
+._2y8z {
+    color: white !important; /*"To"*/
+}
+._53ij { /*gif popup*/
+    background-color: #242424 !important;
+}
+/*messenger-games*/
+._3rh0 ._26ly {background-color: #242424!important;}
+._4lh7 {color: white !important;background-color: #242424!important;margin: 0px 0px 0px 0px !important;}/*text*/
+._4lh2 {background-color: #242424!important;}
+._4lha ._4lhb {color: white!important;}
+._2pgc {
+    background-color: #242424 !important;
+    border: 1px solid #242424 !important;
+}
+._5r8a._5r8b {
+    background: #242424 !important;
+}
+._1ht3 ._1htf {
+    color: white!important; /*unseen */
+}
+/*messenger image fix*/
+._4rv6 {
+    background-image: url(https://i.imgur.com/dL06MTw.png) !important;
+    opacity: 1.0 !important;
+}
+a._4ce_ {
+    background-image: url(https://i.imgur.com/dL06MTw.png) !important;
+    opacity: 1.0 !important;
+}
 /* FACEBOOK */
 ._5vb_, ._5vb_ #contentCol {/*Body background*/
     background-color: #242424 !important;
@@ -197,30 +320,148 @@ element.style { /*ALL COLORS #TODO*/
 .fbNub._50mz .titlebar .titlebarText, .fbNub._50mz.highlightTab .fbNubButton .name, .fbNub._50mz.highlightTab .fbNubButton, .fbNub._50mz.focusedTab .fbNubButton .name {
     color: white !important; /*chat name color*/
 }
+._3-a6._1blz .UFICommentActorAndBody, ._o0o ._3-a6._1blz .UFICommentActorAndBody {
+    background-color: #3e3e3e !important; /*comment bubble post background*/
+}
+div._4-i2 { /*like popup*/
+    background-color: #242424!important;
+}
+.UFICommentReactionsBling ._3emk {
+    border-right: 2px solid #242424 !important; /*comment like border*/
+}
+._ipn {
+    color: white !important; /*comment like border number*/
+}
+._3-a6 ._10la ._10lo {
+    background: #3e3e3e !important;
+}
+._5vsj._5vsj._5vsj {
+    color: white !important; /*comment bubble post text*/
+}
+._4-h8 { /*pointer "make post" hide triangle*/
+    border-bottom: 0px solid red !important;
+}
+._4-h8::after {
+    border-bottom: 0px solid red !important; /*hide triangle*/
+}
+._2yq._2ltu ._4-u2::before {
+    border: 1px solid #3e3e3e !important; /*border around posts?*/
+}
+._58cn ._58cl {
+    color: red !important; /*#*/
+}
+._2s1x ._2s1y {
+    background-color: #4267b2;
+    border-bottom: 1px solid red!important; /*border under main bar*/
+}
+._585- {
+    background-color: #fff;
+    border: 1px solid red !important; /*border around search*/
+}
+._5va1 {
+    border: 1px solid red !important; /*border around shared posts*/
+}
+._5pr2.fbChatSidebar { /*chat border left*/
+    border-left-color: red !important;
+    box-shadow: inset 2px 0 2px -2px red !important;
+}
+.fbChatSidebar {
+    background-color: #242424 !important; /*chat colors*/
+}
+._4fzb {
+    border: 1px solid #3e3e3e !important;
+}
+._4mq3 .fbNubButton {
+    background-color: #f6f7f9;
+    border: 1px solid red !important; /*chat small button border*/
+}
+._4mq3 .fbNubFlyoutTitlebar .titlebarLabel {
+    color: #fff !important; /*text*/
+    background-color: #3e3e3e !important;
+}
+._4mq3 .uiScrollableArea {
+    background-color: #242424 !important; /*more contancts in chat background*/
+}
+._4mq3 ._55ln {
+    background-color: #242424 !important; /*chat background color*/
+}
+._5iwm ._58al {
+    color: white !important;
+    background-color: #242424 !important;/*search bar*/
+}
+.fbChatTypeahead ._4p-s {
+    background-color: #242424 !important; /*search bar results*/
+}
+.fbNubFlyoutHeader, .fbNubFlyoutBody, .fbNubFlyoutFooter, .fbNubFlyoutAttachments {
+    background-color: #242424 !important; /*chat border pixels cosmetic*/
+}
+._55oc {
+    color: #ffffff !important; /*more contacts in chat text color*/
+}
+._4fzb ._5pco, ._4fzb ._5pco p {
+    color: #ffffff !important; /*shared post text color*/
+}
+._225b {
+    color: white !important; /*chat searching text business*/
+}
+._364g {
+    color: white !important; /*chat searching text contacts*/
+}
+._3q34 {
+    color: white !important;/*white text again*/
+}
+._3q35 {
+    color: white !important;/*white text again*/
+}
+._3-a6._1blz .UFILikeSentence ._4ar- ._3emk, ._3-a6._1blz .UFICommentReactionsBling ._3emk {
+    background: #242424 !important; /*like border*/
+}
+._55ln:focus, ._55ln:hover, li.selected ._55ln { /*TODO*/
+    background-color: #3e3e3e !important;
+    box-shadow: 1px 0 0 #3e3e3e inset !important;
+}
+._55ln{
+    color: white !important;
+}
+._6590 ._5dwa ._38my, ._u9q ._5dwa ._38my {
+    color: #fff !important; /*text community/about on page*/
+}
+
 /*cancer greys*/
 ._ei_{background:#242424!important;} /*bottom post*/
 ._57d8 {background-color: #242424 !important;}
 ._m_1{background:#3e3e3e !important;} /*Buttons main*/
-/*testing   This makes my chrome unstable for some reason..
-._sig{background-color:red !important;}
-._26y3{background-color:green !important;}
-._o1t{background-color:blue !important;}
-._awf{background:violet !important;}
-.seeMore{background:yellow !important;}
+._645l{background-color:#3e3e3e !important;} /*notifications see more*/
+.seeMore{background:#3e3e3e !important;}
+._3emk{background:#242424 !important;} /*reaction border icons*/
+.UFILikeSentence ._4ar- ._3emk{background:#242424 !important;} /*reaction*/
+/*testing   This makes my chrome unstable for some reason..*/
+
 ._4h7j{background-color: teal !important;}
 ._26bz{background-color:green !important;}
 ._645l{background-color:red !important;}
-._645l{background-color:yellow !important;} */
 
+a{
+    color: red !important;
+}
 
+.UFICommentReactionsBling ._3emk{background:purple !important;}
+
+/*Useless
+._3ubp{background-color:red !important;}
+._sg1{background-color:red !important;}
+._5vsj ._1g5v+._4arz{background:red !important;}
+._sig{background-color:red !important;}
+._26y3{background-color:red !important;}
+._o1t{background-color:red !important;}
+._awf{background:red !important;}
+*/
 
 /*Facebook buttons: #F6F7F9*/
-
-
-/* GOOGLE SEARCH */
-body { /*google results*/
-    background: #a1a1a1 !important;
+._1osa input {
+    background-color: red !important;
 }
+/* GOOGLE SEARCH */
 .sfbgg { /*top border*/
     background-color: #a1a1a1 !important;
 }
