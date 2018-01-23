@@ -18,8 +18,6 @@
 			"matches": [
 						"https://www.amazon.com/*",
 						"https://www.aliexpress.com/*",
-						"https://*.github.com/*",
-						"https://github.com/*",
 						"file:///*",
 						"https://www.messenger.com/*",
 						"https://www.facebook.com/*",

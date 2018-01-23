@@ -426,6 +426,32 @@ div._4-i2 { /*like popup*/
 ._6590 ._5dwa ._38my, ._u9q ._5dwa ._38my {
     color: #fff !important; /*text community/about on page*/
 }
+._585- {
+    background-color: #242424 !important;
+}
+._4d3w._u77 ._3t09 {
+    background: #242424 !important;
+}
+._4d3w._u77 .fbPhotosSnowboxFeedbackInput {
+    background-color: #242424 !important;
+}
+._4d3w._u77 .fbPhotosSnowboxFeedbackInput ._2r5f .UFIRow {
+    background-color: #242424 !important;
+}
+._fmi { /*comment box input*/
+    background-color: #242424 !important;
+    border: 1px solid #242424 !important;
+}
+._5vsj .UFIRow {
+    background-color: #242424 !important;
+}
+.fbReminders .fbRemindersStory:hover {
+    background-color: #3e3e3e !important;
+}
+._3m75 .sideNavItem ._5afe::after {
+    background-color: #3e3e3e !important;
+    border: 1px solid #242424 !important
+}
 
 /*cancer greys*/
 ._ei_{background:#242424!important;} /*bottom post*/
