@@ -16,8 +16,6 @@
 		{
 			"run_at": "document_end",
 			"matches": [
-						"https://www.amazon.com/*",
-						"https://www.aliexpress.com/*",
 						"file:///*",
 						"https://www.messenger.com/*",
 						"https://www.facebook.com/*",

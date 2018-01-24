@@ -7,78 +7,6 @@ input{
     color:white !important;
     background-color: #242424 !important;
 }
-
-/* ALIEXPRESS */
-.top-lighthouse { /*top background color*/
-    border-bottom: 1px dashed orange !important;
-    background-color: #a1a1a1 !important;
-}
-.nav-global .ng-item { /*top lighthouse right border line*/
-    border-right: 1px solid #a1a1a1 !important;
-}
-.nav-global .ng-item a { /*top font color*/
-    color: #000 !important;
-}
-.nav-global .ng-sub-title, .nav-global .ng-switcher .switcher-info { /*top font color help*/
-    color: #000 !important;
-}
-.nav-global .ng-sub-list li a:hover { /*help hover*/
-    background: red !important;
-    color: purple !important;
-}
-#broad-category { /*background*/
-    background-color: #a1a1a1 !important;
-}
-.header { /*header*/
-    background-color: #a1a1a1 !important;
-    border-bottom: 1px dashed orange !important;
-}
-.site-footer {
-    background-color: #a1a1a1 !important;
-}
-.searchbar-form .search-key-box input { /*search*/
-    background-color: #a1a1a1 !important;
-}
-/* AMAZON */
-
-
-/* GITHUB */
-.user-profile-nav { /*Profile navigation*/
-    background-color: #a1a1a1 !important;
-}
-.form-control, .form-select { /*Search*/
-    background-color: #f1f8ff !important;
-}
-.blankslate { /*DMCA message*/
-    background-color: #a1a1a1 !important;
-}
-.repohead.experiment-repo-nav { /*user&repository bar*/
-    background-color: #c5c5c5 !important;
-}
-.btn { /*buttons*/
-    color: black !important;
-    background-color: #f1f8ff !important;
-    background-image: linear-gradient(-180deg, #f1f8ff 0%, #f1f8ff 90%) !important;
-}
-.bg-white { /*date under contribution activity*/
-    background-color: #a1a1a1 !important;
-}
-h3 .bg-white { /*override*/
-    background-color: #a1a1a1 !important;
-}
-h3.profile-timeline-month-heading, .bg-white, .d-inline-block, .h6, .pr-2, .py-1{ /*override*/
-    background-color: #a1a1a1 !important;
-}
-.Header .header-search-scope { /*"This Repository" next to search*/
-    color: rgba(0, 0, 0, 1.00) !important;
-}
-.Header .header-search-wrapper {/*Search box font*/
-    color: black !important;
-}
-.octofication .broadcast-icon-mask { /*radio tower icon mask front page*/
-    background-color: #a1a1a1 !important;
-}
-
 /* FACEBOOK MESSENGER */
 ._4sp8 { /*Body background*/
     background-color: #242424 !important;
@@ -209,6 +137,9 @@ a._4ce_ {
     background-image: url(https://i.imgur.com/dL06MTw.png) !important;
     opacity: 1.0 !important;
 }
+._5i_d .__6l {
+    color: white !important; /*linked text bottom*/
+}
 /* FACEBOOK */
 ._5vb_, ._5vb_ #contentCol {/*Body background*/
     background-color: #242424 !important;
@@ -245,10 +176,10 @@ a._4ce_ {
 ._ipo { /*x comments x shares background color*/
     background: #242424 !important;
 }
-._5v3q .n_11h-y_7rwe .t_11h-y_f0d- { /*"Sponsored" text bright red to pop*/
+._5v3q .n_11h-y_7rwe .t_11h-y_f0d- { /*"Sponsogrey" text bright grey to pop*/
     color: #e80000 !important;
 }
-._517h, ._59pe:focus, ._59pe:hover { /*Learn More button on Sponsored post*/
+._517h, ._59pe:focus, ._59pe:hover { /*Learn More button on Sponsogrey post*/
     background-color: #242424 !important;
 }
 ._517h:hover { /*Learn More button hover*/
@@ -339,31 +270,31 @@ div._4-i2 { /*like popup*/
     color: white !important; /*comment bubble post text*/
 }
 ._4-h8 { /*pointer "make post" hide triangle*/
-    border-bottom: 0px solid red !important;
+    border-bottom: 0px solid grey !important;
 }
 ._4-h8::after {
-    border-bottom: 0px solid red !important; /*hide triangle*/
+    border-bottom: 0px solid grey !important; /*hide triangle*/
 }
 ._2yq._2ltu ._4-u2::before {
     border: 1px solid #3e3e3e !important; /*border around posts?*/
 }
 ._58cn ._58cl {
-    color: red !important; /*#*/
+    color: grey !important; /*#*/
 }
 ._2s1x ._2s1y {
     background-color: #4267b2;
-    border-bottom: 1px solid red!important; /*border under main bar*/
+    border-bottom: 1px solid grey!important; /*border under main bar*/
 }
 ._585- {
     background-color: #fff;
-    border: 1px solid red !important; /*border around search*/
+    border: 1px solid grey !important; /*border around search*/
 }
 ._5va1 {
-    border: 1px solid red !important; /*border around shared posts*/
+    border: 1px solid grey !important; /*border around shagrey posts*/
 }
 ._5pr2.fbChatSidebar { /*chat border left*/
-    border-left-color: red !important;
-    box-shadow: inset 2px 0 2px -2px red !important;
+    border-left-color: grey !important;
+    box-shadow: inset 2px 0 2px -2px grey !important;
 }
 .fbChatSidebar {
     background-color: #242424 !important; /*chat colors*/
@@ -373,7 +304,7 @@ div._4-i2 { /*like popup*/
 }
 ._4mq3 .fbNubButton {
     background-color: #f6f7f9;
-    border: 1px solid red !important; /*chat small button border*/
+    border: 1px solid grey !important; /*chat small button border*/
 }
 ._4mq3 .fbNubFlyoutTitlebar .titlebarLabel {
     color: #fff !important; /*text*/
@@ -399,7 +330,7 @@ div._4-i2 { /*like popup*/
     color: #ffffff !important; /*more contacts in chat text color*/
 }
 ._4fzb ._5pco, ._4fzb ._5pco p {
-    color: #ffffff !important; /*shared post text color*/
+    color: #ffffff !important; /*shagrey post text color*/
 }
 ._225b {
     color: white !important; /*chat searching text business*/
@@ -452,8 +383,6 @@ div._4-i2 { /*like popup*/
     background-color: #3e3e3e !important;
     border: 1px solid #242424 !important
 }
-
-/*cancer greys*/
 ._ei_{background:#242424!important;} /*bottom post*/
 ._57d8 {background-color: #242424 !important;}
 ._m_1{background:#3e3e3e !important;} /*Buttons main*/
@@ -461,91 +390,112 @@ div._4-i2 { /*like popup*/
 .seeMore{background:#3e3e3e !important;}
 ._3emk{background:#242424 !important;} /*reaction border icons*/
 .UFILikeSentence ._4ar- ._3emk{background:#242424 !important;} /*reaction*/
-/*testing   This makes my chrome unstable for some reason..*/
-
-._4h7j{background-color: teal !important;}
-._26bz{background-color:green !important;}
-._645l{background-color:red !important;}
-
 a{
-    color: red !important;
+    color: grey !important;
 }
-
-.UFICommentReactionsBling ._3emk{background:purple !important;}
-
-/*Useless
-._3ubp{background-color:red !important;}
-._sg1{background-color:red !important;}
-._5vsj ._1g5v+._4arz{background:red !important;}
-._sig{background-color:red !important;}
-._26y3{background-color:red !important;}
-._o1t{background-color:red !important;}
-._awf{background:red !important;}
-*/
-
-/*Facebook buttons: #F6F7F9*/
+.UFICommentReactionsBling ._3emk{background:grey !important;}
+.uiHeader h2 {
+    color: #ffffff !important;
+}
 ._1osa input {
-    background-color: red !important;
+    background-color: grey !important;
+}
+._5vsj .UFIRow.UFIUnseenItem:after {
+    background-color: grey !important; /*comment left border*/
+}
+.uiHeader h5, .uiHeader h6 {
+    color: #ffffff !important;
+    background-color: #242424 !important;
+}
+.uiHeaderSection, .uiSideHeader {
+    background-color: #242424 !important;
+    border-top: solid 1px #242424 !important;
+}
+._33c {/*notifications read*/
+    background-color: #242424 !important;
+    border-bottom: 1px solid #242424 !important;
+}
+.jewelItemNew ._33e { /*notifications unread*/
+    background-color: #3e3e3e !important;
+}
+._2dck {
+    border-top: 1px solid #3e3e3e !important;
+}
+._53ii ._53im>._53io {
+    height: 0px !important;
+}
+._33gp ._38my, ._5dw9 ._38my {
+    color: grey !important;
+}
+._1u6r {
+    color: grey !important;
+}
+.uiMorePagerLight .uiMorePagerPrimary:hover {
+    background-color: #242424 !important;
+    border-top: 1px solid #242424 !important;
 }
 /* GOOGLE SEARCH */
 .sfbgg { /*top border*/
-    background-color: #a1a1a1 !important;
+    background-color: #242424 !important;
 }
 ._Fmb, ._Fmb:hover, ._Fmb.selected, ._Fmb.selected:hover { /*icon next to link*/
-    background-color: #a1a1a1 !important;
+    background-color: #242424 !important;
 }
 .s .st em, .st.s.std em { /*highlighted word*/
-    color: black !important;
+    color: #4285f4 !important;
+}
+.s{
+    color:grey !important; /*main font*/
 }
 #appbar { 
-    background: #a1a1a1 !important;
+    background: #242424 !important;
 }
 #hdtbSum { /*navigation menu*/
-    background: #a1a1a1 !important;
+    background: #242424 !important;
 }
 g-inner-card { /*"Top stories"*/
-    background-color: #a1a1a1 !important;
+    background-color: #242424 !important;
 }
 #hdtb { /*Line between navigation menu and results*/
-    border-bottom: 1px solid #a1a1a1 !important;
+    border-bottom: 1px solid #242424 !important;
 }
 ._qgo { /*people also ask*/
-    background-color: #a1a1a1 !important;
-    border-top: 1px solid #a1a1a1 !important; /*line above questions*/
+    background-color: #242424 !important;
+    border-top: 1px solid #242424 !important; /*line above questions*/
 }
 .sbib_a { /*search input*/
-    background: #a1a1a1 !important;
+    background: #242424 !important;
 }
 .sbico-c { /*search icon*/
-    background: #a1a1a1 !important;
+    background: #242424 !important;
 }
 .sbibod {
-    background-color: #a1a1a1 !important;
+    background-color: #242424 !important;
 }
 a._sWr { /*search dropdown feedback background*/
     padding: 0 5px;
-    background: #a1a1a1 !important;
+    background: #242424 !important;
 }
 a.duf3 { /*dropdown feedback text*/
-    color: black !important;
+    color: purple !important;
 }
 #fbar { /*footer + line*/
-    background: #a1a1a1 !important;
-    border-top: 1px solid #a1a1a1 !important;
+    background: #242424 !important;
+    border-top: 1px solid #242424 !important;
 }
 ._HR { /*footer location color*/
-    color: #000 !important;
+    color: purple !important;
 }
 ._Ubu { /*footer line*/
-    border-bottom: 1px solid #a1a1a1 !important;
+    border-bottom: 1px solid #242424 !important;
 }
 .ktf { /*search result search*/
-    background-color: #a1a1a1 !important;
+    background-color: #242424 !important; /*input box*/
 }
 .ab_button {
-    background-color: #a1a1a1 !important;
-    background-image: -webkit-gradient(linear,left top,left bottom,from(#a1a1a1),to(#a1a1a1)) !important;
-    background-image: -webkit-linear-gradient(top,#a1a1a1,#a1a1a1) !important;
+    background-color: #242424 !important;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#242424),to(#242424)) !important;
+    background-image: -webkit-linear-gradient(top,#242424,#242424) !important;
 }
 ._zF, .mslg .ab_button, .mslg .kpgrb {
     border: 1px solid grey !important;
@@ -555,3 +505,107 @@ a.duf3 { /*dropdown feedback text*/
 input { /*search result result border*/
     border-color: grey !important;
 }
+.a, cite, cite a:link, cite a:visited, .cite, .cite:link, #_bGc>i, .bc a:link {
+    color: #4285f4 !important;
+}
+.action-menu .mn-dwn-arw {
+    border-color: #4285f4 transparent !important;
+}
+.ab_dropdown {
+    background: #242424 !important;
+}
+#hdtb-tls:hover {
+    background-color: #242424 !important;
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#242424),to(#242424)) !important;
+    background-image: -webkit-linear-gradient(top,#242424,#242424) !important;
+    border: 1px solid #242424 !important;
+}
+._Cbu {
+    color: grey !important;
+}
+.hdtb-mn-hd:hover {
+    color: grey !important;
+}
+.hdtb-mn-o, .hdtb-mn-c {
+    background: #242424 !important;
+    border: 1px solid #242424 !important;
+}
+.hdtbItm {
+    background: #242424 !important; 
+}
+.hdtbItm:hover {
+    background: #242424 !important; 
+}
+.cdr_sep {
+    border-top: 1px solid #242424 !important;
+}
+#cdr_opt {
+    background: #242424 !important;
+}
+#hdtb-msb .hdtb-tl-sel, #hdtb-msb .hdtb-tl-sel:hover {
+    background: -webkit-linear-gradient(top,#242424,#242424) !important;
+    border: 1px solid #242424 !important;
+}
+._dMq {
+    background: #242424 !important; /*More menu dropdown background*/
+}
+#hdtb-more-mn a:hover, .hdtbItm.hdtbSel:hover, .hdtbItm a:hover, #cdrlnk:hover {
+    background-color: #242424 !important;
+}
+.cdr_dlg {
+    left: 50%;
+    background: #242424 !important;
+    border: 1px solid #242424 !important;
+}
+.cdr_dlg .goog-date-picker {
+    left: 154px;
+    background-color: #242424 !important;
+}
+.cdr_ttl{
+    color: #e61d1d!important;
+}
+.cdr_highl {
+    left: 50px;
+    background-color: #242424 !important;
+}
+.cdr_cls {
+    right: 11px;
+    background: #242424 !important;
+}
+.sect {
+    border-bottom: 1px solid grey !important;
+    color: grey !important;
+}
+div._Ie div._P9, div._qpb {
+    color: grey !important;
+}
+.gb_Hf {
+    background: #242424 !important;
+}
+/* TODO:
+Google:
+- Fix matches in manifest to match all countries
+- Fix search background color to 242424
+- Fix flights page https://www.google.com/flights/
+
+Facebook:
+- User page dropdowns (More)
+- Pills text collor (something brighter)
+- ... button dropdown borders and hover
+- Posts borders to 3e3e3e
+- Notification button dropdown colors
+- Friends button dropdown colors
+- Messages button dropdown colors
+- Search dropdown colors
+- Search Posts from friends colors
+- Search Public Posts colors
+- Chat button color
+- Help section
+- Triangle dropdown menu colors
+- https://www.facebook.com/find-friends/browser/
+- https://www.facebook.com/settings?tab=notifications&section=on_facebook
+- https://www.facebook.com/pokerznikjure/allactivity?privacy_source=activity_log_top_menu
+- Probably A LOT more than this...
+
+Messenger:
+*/
