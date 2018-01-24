@@ -626,7 +626,7 @@ div._Ie div._P9, div._qpb {
 .kp-blk .xpdclose ._wle, .kp-blk .xpdopen ._xle {
     border-top: solid 1px #3e3e3e !important;
 }
-..xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty) {
+.xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty) {
     border-top: solid 1px #3e3e3e !important;
 }
 ._czk { /*share button*/
@@ -776,8 +776,8 @@ div._Ie div._P9, div._qpb {
     color: grey !important;
 }
 .section-info-action-icon-button:last-of-type { /*company info google maps hover icons*/
-    background-image: -webkit-linear-gradient(left,rgba(247,247,247,0) 0px,rgba(247,247,247,1) !important  24px);
-    background-image: linear-gradient(to right,rgba(247,247,247,0) 0px,rgba(247, 247, 247, 0.05) !important 24px);
+    background-image: -webkit-linear-gradient(left,rgba(247,247,247,0) 0px,rgba(247,247,247,1)  24px) !important;
+    background-image: linear-gradient(to right,rgba(247,247,247,0) 0px,rgba(247, 247, 247, 0.05)  24px) !important;
 }
 .section-info-action-icon-button { /*company info google maps hover icon call right side*/
     background-color: rgba(247,247,247,0.05) !important;
