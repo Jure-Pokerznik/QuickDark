@@ -1,7 +1,13 @@
 /* LOCAL */
+:root { /*mozilla*/
+    background-color: #242424 !important;
+}
+html, body, #root { /*mozilla*/
+    background: #242424 !important;
+}
 body { /*Local background*/ /*can also apply on other sites*/
     background-color: #242424 !important;
-    color: white !important; /*font color FACEBOOK */
+    color: grey !important; /*font color FACEBOOK */
 }
 input{
     color:white !important;
@@ -161,6 +167,9 @@ a._4ce_ {
 /*#facebook ._-kb span { /*most main colors text
     color: white !important;
 }*/
+._4eby {
+    background: #242424 !important;
+}
 .fbReminders .fbRemindersStory .fbRemindersTitle {  /*reminders text*/
     color: white !important;
 }
@@ -477,14 +486,14 @@ a._sWr { /*search dropdown feedback background*/
     background: #242424 !important;
 }
 a.duf3 { /*dropdown feedback text*/
-    color: purple !important;
+    color: grey !important;
 }
 #fbar { /*footer + line*/
     background: #242424 !important;
     border-top: 1px solid #242424 !important;
 }
 ._HR { /*footer location color*/
-    color: purple !important;
+    color: grey !important;
 }
 ._Ubu { /*footer line*/
     border-bottom: 1px solid #242424 !important;
@@ -582,11 +591,261 @@ div._Ie div._P9, div._qpb {
 .gb_Hf {
     background: #242424 !important;
 }
+.searchbox { /*google maps fix*/
+    background: #242424 !important;
+}
+.jhp input[type="submit"], .sbdd_a input, .gbqfba {
+    background-image: -moz-linear-gradient(top,#242424,#242424) !important;
+}
+.jhp input[type="submit"]:hover, .sbdd_a input:hover, .gbqfba:hover {
+    background-image: -moz-linear-gradient(top,#3e3e3e,#3e3e3e) !important;
+}
+.sbsb_c { /*input box color*/
+    background: #242424 !important;
+}
+.kno-ecr-pt {
+    color: grey !important;
+}
+._Mft {
+    color: #4285f4 !important;
+}
+.vk_ard, .vk_aru { /*arrow "more about x"*/
+    background-color: grey !important;
+}
+.vk_ard:before { /*arrow*/
+    border-top: 16px solid grey !important;
+    top: 6px;
+}
+.vk_ard:after { /*arrow*/
+    border-top: 16px solid lightgray !important;
+}
+._jAg ._vqh{
+    background-color: grey !important;
+    color: #3e3e3e !important;
+}
+.kp-blk .xpdclose ._wle, .kp-blk .xpdopen ._xle {
+    border-top: solid 1px #3e3e3e !important;
+}
+..xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty) {
+    border-top: solid 1px #3e3e3e !important;
+}
+._czk { /*share button*/
+    color: grey !important;
+}
+.vk_aru:before { /*arrow reverse*/
+    border-bottom: 16px solid grey !important;
+}.vk_aru:after {
+    border-bottom: 16px solid lightgrey !important;
+}
+.xpdclose ._T1i:not(:empty), .xpdopen ._U1i:not(:empty) { /*border company info*/
+    border-top: solid 1px #3e3e3e !important;
+}
+._Iqg {
+    color: #4285f4 !important;
+}
+._Fqg {
+    color: #4285f4 !important;
+}
+.suggest-query .suggest-bold { /*google maps search*/
+    color: darkgrey !important;
+    font-weight: 500;
+}
+.sbib_b::after { /*transparent input google maps*/
+    background: linear-gradient(to right,rgba(255,255,255,0),rgba(255, 255, 255, 0)) !important;
+}
+.searchbox-searchbutton-container::after {
+    border-left: 1px solid #3e3e3e !important;
+}
+.suggest {
+    color: grey !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+.suggest:hover {
+    color: grey !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+.kd-tooltip-dark {
+    background: #242424 !important;
+    color: grey !important;
+}
+.omnibox-tooltip:before {
+    border-bottom: 6px solid #242424 !important;
+}
+#omnibox .sbsb_c:not(:first-child) .suggest::before {
+    background: #3e3e3e !important;
+}
+.gb_ia {
+    background: #242424 !important;
+}
+.gb_ja {
+    background: #242424 !important;
+}
+.gb_Z:hover .gb_3 {
+    background: #242424 !important;
+}
+#gb#gb a.gb_O, #gb#gb a.gb_P, #gb#gb span.gb_P {
+    color: transparent !important;
+}
+.gb_3 {
+    color: grey !important;
+}
+#gb a.gb_ja, #gb a.gb_ja:visited, #gb a.gb_ja:active, #gb a.gb_ka, #gb a.gb_ka:visited {
+    background: #242424 !important;
+}
+.gb_6c.gb_g .gb_qb, .gb_6c.gb_g .gb_rb, .gb_6c.gb_g .gb_fa, .gb_g.gb_fa {
+    background: #242424 !important;
+}
+.suggest-query {
+    color: grey !important;
+    font-size: 13px;
+}
+.gb_fa { /*Account username*/
+    color: white !important;
+}
+.gb_Mb { /*account color*/
+    background: #242424 !important;
+}
+.gb_Ob:hover {
+    background: #3e3e3e !important; /*account hover*/
+}
+.gb_Fb {
+    background: #242424 !important;
+}
+.gb_Ea {
+    background: #242424 !important;
+    border: 1px solid #c6c6c6;
+}
+.gb_Fb .gb_Eb:hover {
+    background-image: -webkit-linear-gradient(top,#3e3e3e,#3e3e3e) !important;
+}
+#gb .gb_yb a.gb_Eb.gb_Eb {
+    color: #fff !important;
+}
+.gb_yb .gb_Eb {
+    background: #4d90fe !important;
+    border-color: #3079ed !important;
+    color: #fff !important;
+}
+.gb_yb .gb_Eb:hover {
+    background: #3079ed !important;
+}
+.widget-settings-open .widget-settings-pane {
+    background: #242424 !important;
+}
+.widget-settings-list {
+    border-top: 1px solid #3e3e3e !important;
+}
+/*google maps bottom buttons right hand*/
+.widget-mylocation-button {
+    background-color: #242424 !important;
+}
+.widget-expand-button-pegman {
+    background-color: #242424 !important;
+}
+.widget-reveal-card {
+    background-color: #242424 !important;
+}
+.widget-zoom-button {
+    background-color: #242424 !important;
+}
+.section-listbox.section-scrollbox {
+    background: #242424 !important;
+}
+.section-pagination {
+    border-top: 1px solid #3e3e3e !important;
+}
+.section-result-text-content {
+    color: grey !important;
+}
+.section-result-text-content:hover {
+    background: #242424 !important;
+}
+.section-omnibox-spacer-blue {
+    background-color: #242424 !important;
+}
+.section-pagination {
+    background: #242424 !important;
+}
+.section-listbox-root {
+    background: #242424 !important;
+}
+.section-result-content:hover{
+    background: #242424 !important;
+}
+.section-info-text, .section-info-text .widget-pane-link {
+    color: grey !important;
+}
+.section-info-action-icon-button:last-of-type { /*company info google maps hover icons*/
+    background-image: -webkit-linear-gradient(left,rgba(247,247,247,0) 0px,rgba(247,247,247,1) !important  24px);
+    background-image: linear-gradient(to right,rgba(247,247,247,0) 0px,rgba(247, 247, 247, 0.05) !important 24px);
+}
+.section-info-action-icon-button { /*company info google maps hover icon call right side*/
+    background-color: rgba(247,247,247,0.05) !important;
+} 
+.section-subheader-large-text {
+    color: grey !important;
+}
+.section-reviewchart {
+    background: #242424 !important;
+}
+.section-write-review-container {
+    background: #242424 !important;
+}
+.section-divider-top-line {
+    border-top: 1px solid #3e3e3e !important;
+    background: #242424 !important;
+}
+.section-divider-bottom-line {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.section-entity-action {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.section-back-to-list-button {
+    background-color: #242424 !important;
+}
+.section-hero-header-directions-base {
+    background-color: #3e3e3e !important;
+}
+.search-nearby-shown .sbib_d {
+    background: #3e3e3e !important;
+}
+.widget-settings-open .widget-settings-shim {
+    opacity: 0.8 !important;
+    background: #242424 !important;
+}
+.section-listbox {
+    background: #242424 !important;
+}
+.section-divider-bottom-line {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.section-hero-header {
+    background-color: #242424 !important;
+}
+.section-entity-action {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+/*
+Updates:
+Google:
+- Fixed background colors of search results
+- Fixed search buttons
+- Fixed show more/less button and some borders
+ 
+
+Facebook:
+Messenger:
+*/
 /* TODO:
 Google:
 - Fix matches in manifest to match all countries
-- Fix search background color to 242424
 - Fix flights page https://www.google.com/flights/
+- Add Google Sites
+> Google Maps:
+ - Suggest an edit
+ - Menu close colors (jump back to white for a second) -> https://i.imgur.com/5qqYVZS.png
+ - Icons are too dark, fix with background-image urls
 
 Facebook:
 - User page dropdowns (More)
@@ -608,4 +867,5 @@ Facebook:
 - Probably A LOT more than this...
 
 Messenger:
+- Search Bar
 */
