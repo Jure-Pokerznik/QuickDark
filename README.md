@@ -3,7 +3,7 @@ A really simple Chrome extension that changes Facebook, Facebook Messenger and G
 
 This is still super work in progress. 
 
-![Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quickdark/)
+[Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quickdark/)
 
 ##Screenshots 
 ![Facebook](https://i.imgur.com/XU14XD7.png)
