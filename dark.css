@@ -146,6 +146,33 @@ a._4ce_ {
 ._5i_d .__6l {
     color: white !important; /*linked text bottom*/
 }
+h1, h2, h3, h4, h5, h6 {
+    color: grey !important;
+}
+._59s7 {
+    background-color: #242424 !important;
+}
+._2c9i ._19jt {
+    color: grey !important;
+}
+._374c {
+    color: grey !important;
+}
+._33p7 {
+    background-color: #242424 !important;
+}
+input::-webkit-input-placeholder{ /*Input fix*/
+    color:grey !important;
+}
+._2jnv, ._2jnx, ._2jnz, ._2jnx ._30e7 ._5j5f {
+    color: white!important;
+}
+._4rph ._4rpj {
+    color: rgb(255, 255, 255) !important;
+}
+._3m31:nth-of-type(2n) {
+    border-left: 2px solid #fff0 !important;
+}
 /* FACEBOOK */
 ._5vb_, ._5vb_ #contentCol {/*Body background*/
     background-color: #242424 !important;
@@ -223,7 +250,6 @@ html ._4lh ._1zw6 { /*font color intro info user profile*/
     width: 0px !important;
 }
 ._bui ._5afe { /*main sidepanel text*/
-    border-bottom: 1px solid #fff;
     color: #ffffff !important;
 }
 ._5vb_, ._5vb_ #contentCol { /*font color main*/
@@ -442,6 +468,10 @@ a{
 .uiMorePagerLight .uiMorePagerPrimary:hover {
     background-color: #242424 !important;
     border-top: 1px solid #242424 !important;
+}
+._3io8 {
+    background-color: #242424 !important;
+    border-bottom: 1px #3e3e3e solid !important;
 }
 /* GOOGLE SEARCH */
 .sfbgg { /*top border*/
@@ -826,17 +856,197 @@ div._Ie div._P9, div._qpb {
 .section-entity-action {
     border-bottom: 1px solid #3e3e3e !important;
 }
-/*
-Updates:
-Google:
-- Fixed background colors of search results
-- Fixed search buttons
-- Fixed show more/less button and some borders
- 
+._tX {
+    color: #4285f4 !important;
+}
+._Adb {
+    color: grey !important; 
+}
+._wD:hover {
+    background: #242424 !important;
+}
+.kp-blk ._Wdh ._wjf { /*music side*/
+    background: #242424 !important;
+}
+#tads a, #tadsb a, #res a, #rhs a, #taw a { /*music side*/
+    background: #242424 !important;
+}
+._bfj { /*music big*/
+    background: #242424 !important;
+}
+.rl_feature #lxhdr { /*music big*/
+    background: #242424 !important;
+}
+.rl_container {/*music big*/
+    background: #242424 !important;
+}
+.rlc__slider-page {/*music big*/
+    background: #242424 !important;
+}
+.rl_item {/*music big*/
+    background: #3e3e3e!important;
+}
+.rl_item .title {/*music big*/
+    color: grey !important;
+}
+.rl_center {
+    border: #3e3e3e !important;
+}
+.ab_dropdownrule {
+    border-top: 1px solid #3e3e3e !important;
+}
+.str-card-list, .str-wide-list {
+    background-color: #242424 !important;
+}
+.str-header-bar { /*google.com/save WIP*/
+    backface-visibility: hidden;
+    background-color: #3e3e3e !important;
+}
+.str-list-header-title {
+    box-sizing: border-box;
+    color: white !important;
+}
+.str-tag-card-title-container {
+    background-color: #3e3e3e !important;
+}
+.str-list-card-title { 
+    color: lightgrey !important;
+}
+#hdtb.notl a, #hdtb.notl div, #hdtb.notl li {
+    background: #242424 !important;
+}
+#hdtb {
+    background: #242424 !important;
+}
+.jhp input[type="submit"], .sbdd_a input, .gbqfba {
+    background-image: -webkit-gradient(linear,left top,left bottom,from(#242424),to(#242424)) !important;
+    background-image: -webkit-linear-gradient(top,#242424,#242424) !important;
+}
+.sbsb_g {
+    background: #242424 !important;
+}
+.spch {
+    background: #242424 !important;
+}
+.sfbgg {
+    background-image: -webkit-gradient(radial,100 36,0,100 -40,120,from(#242424),to(#242424)) !important;
+}
+#maia-header {
+    background: #242424 !important;
+}
+#maia-nav-x {
+    background: #242424 !important;
+}
+.header {
+    background: #242424 !important;
+}
+.fixed-jumpnav {
+    opacity: 1;
+    background: #242424 !important;
+}
+html.mmfb header h1 {
+    background: #242424 !important;
+}
+.main>.section:nth-of-type(even) { /*these allow you to have every 2nd box different color, opted to make everything #242424*/
+    background: #242424 !important;
+}
+.main>.section:nth-of-type(even) .card-inner {
+    background: #3e3e3e !important;
+}
+section.section:nth-of-type(odd) .card .card-inner {
+    background: #3e3e3e !important;
+}
+.section-hero .section-hero-copy {
+    background-color: #242424 !important;
+}
+.button, a.button {
+    background: #464646 !important;
+}
+.rs-adsce .section-hero {
+    background: #242424 !important;
+}
+.white { /*Well this certanly isn't white anymore :P*/
+    background-color: #242424 !important; 
+}
+.footer {
+    background: #242424 !important;
+}
+.rs-adsce .ce-card {
+    background: #3e3e3e !important;
+}
+.rs-adsce .ce-card-interior {
+    background: #3e3e3e !important;
+}
+.header .cta a.cta-signin {
+    background: #242424 !important;
+}
+.fixed-jumpnav {
+    background-color: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.flexbox .footer-lower .footer-locale-switcher select {
+    background: #242424 !important
+}
+.glue-app-ready .heroscape.section .collage-carousel .glue-carousel, .glue-app-supported .heroscape.section .collage-carousel .glue-carousel {
+    background: #242424 !important;
+}
+.home section.section {
+    background: #242424 !important;
+}
+.h-c-tile .h-c-tile__body {
+    border: 1px solid #3e3e3e !important; 
+}
+.home .section-title {
+    border-top: 1px solid #3e3e3e !important;
+}
+.cap, .section, .site-width {
+    background: #242424 !important;
+}
+.footer .main {
+    background: #242424 !important;
+}
+.nav-open .top-nav {
+    background: #242424 !important;
+}
+.nav-open .top-nav .selected-page>a {
+    background: #3e3e3e !important;
+}
+.nav-open .top-nav .product-logo {
+    border-bottom: 1px solid grey !important;
+}
+.w-inner-type-subheader-one p {
+    color: grey !important;
+}
+/*Subpages*/
+.corp-crumb {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+#maia-footer-local {
+    background: #242424 !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+#maia-footer-global {
+    border-top: 1px solid #3e3e3e !important;
+    background: #242424 !important;
+}
+#corp-crumb {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+#maia-header {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.acs-grey-section {
+    background-color: #242424 !important;
+}
+.acs-footer-social-links {
+    border-bottom: 1px solid #3e3e3e;
+}
+.knowledge-webanswers_table__webanswers-table th {
+    color: white !important;
+}
 
-Facebook:
-Messenger:
-*/
 /* TODO:
 Google:
 - Fix matches in manifest to match all countries
@@ -846,6 +1056,35 @@ Google:
  - Suggest an edit
  - Menu close colors (jump back to white for a second) -> https://i.imgur.com/5qqYVZS.png
  - Icons are too dark, fix with background-image urls
+>Product Forums
+https://careers.google.com/
+https://www.blog.google/
+https://www.thinkwithgoogle.com/
+https://services.google.com/fb/forms/speakerrequest/
+https://www.google.si/intl/en_si/about/appsecurity/
+https://www.google.org/
+https://environment.google/
+https://www.google.org/our-work/crisis-response/
+https://diversity.google/
+https://transparencyreport.google.com/
+
+
+.BOXPGHD-c-s .BOXPGHD-c-i {
+    background: #242424 !important;
+}
+.gb_Hf>.gb_R {
+    background: #242424 !important;
+}
+.BOXPGHD-c-a {
+    background-color: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+h1.BOXPGHD-z-c {
+    color: white !important;
+}
+html, body, div, span, applet, object {
+    color: white !important;
+}
 
 Facebook:
 - User page dropdowns (More)
@@ -867,5 +1106,5 @@ Facebook:
 - Probably A LOT more than this...
 
 Messenger:
-- Search Bar
+- Icons
 */

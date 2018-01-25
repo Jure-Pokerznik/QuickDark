@@ -1,4 +1,11 @@
 # QuickDark
-A really simple Chrome extension that changes Facebook, Facebook Messenger and Google Search (.com, .si for now) to darker color.
+A really simple Chrome extension that changes Facebook, Facebook Messenger and Google to darker color.
 
-Super early version, just made this in 5 minutes so my eyes wouldn't burn up at night looking at the screen.
+This is still super work in progress. 
+
+![Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/quickdark/)
+
+##Screenshots 
+![Facebook](https://i.imgur.com/XU14XD7.png)
+![Messenger](https://i.imgur.com/wefAJUT.jpg)
+![Google](https://i.imgur.com/dwgoHY8.png)
