@@ -158,6 +158,9 @@ h1, h2, h3, h4, h5, h6 {
 ._374c {
     color: grey !important;
 }
+._5i_d .__6k {
+    color: rgb(255, 255, 255) !important;
+}
 ._33p7 {
     background-color: #242424 !important;
 }
@@ -172,6 +175,12 @@ input::-webkit-input-placeholder{ /*Input fix*/
 }
 ._3m31:nth-of-type(2n) {
     border-left: 2px solid #fff0 !important;
+}
+._4ik6 {
+    color: grey !important;
+}
+._5i_d .__6m {
+    color: white !important;
 }
 /* FACEBOOK */
 ._5vb_, ._5vb_ #contentCol {/*Body background*/
@@ -422,7 +431,7 @@ div._4-i2 { /*like popup*/
 ._57d8 {background-color: #242424 !important;}
 ._m_1{background:#3e3e3e !important;} /*Buttons main*/
 ._645l{background-color:#3e3e3e !important;} /*notifications see more*/
-.seeMore{background:#3e3e3e !important;}
+.seeMore{background:#242424 !important;}
 ._3emk{background:#242424 !important;} /*reaction border icons*/
 .UFILikeSentence ._4ar- ._3emk{background:#242424 !important;} /*reaction*/
 a{
@@ -473,6 +482,309 @@ a{
     background-color: #242424 !important;
     border-bottom: 1px #3e3e3e solid !important;
 }
+._2iwq { /*Disables loading icons*/
+    height: 0px !important;
+}
+._rqg {
+    background: #3e3e3e !important; /*Stories circle color*/
+}
+.__tw div.jewelHeader { /*Notifications background + border*/
+    background-color: #242424 !important;
+    border-bottom: solid 1px #3e3e3e !important;
+}
+._fyy { /*notifications - earlier */
+    background-color: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+    color: #fff !important; /*EARLIER text*/
+}
+._558b ._54nc {
+    border: solid #242424 !important;/*menu borders*/
+}
+._54nc:hover {
+    background: #3e3e3e !important;
+}
+._54nc:active {
+    background: #3e3e3e !important;
+}
+._54nc:focus {
+    background: #3e3e3e !important;
+}
+._3m75 .selectedItem ._55yu>a, ._3m75 .sideNavItem:hover ._55yu>a, ._3m75 .selectedItem .uiSideNavEditButton a, ._3m75 .sideNavItem:hover .uiSideNavEditButton a {
+    background-color: #3e3e3e !important; /*buttons left menu bar*/
+    border-color: #3e3e3e !important;
+    transition-duration: 0ms !important; /*quickest fix for three dot menu button*/
+}
+._3m75 .selectedItem ._55yu>a, ._3m75 .sideNavItem:active ._55yu>a, ._3m75 .selectedItem .uiSideNavEditButton a, ._3m75 .sideNavItem:active .uiSideNavEditButton a {
+    background-color: #3e3e3e !important;
+    border-color: #3e3e3e !important;
+    transition-duration: 0ms !important;
+}
+._55y4 .homeSideNav .uiSideNavAux {
+    top: 0;
+    background: #242424 !important;
+}
+._1cwg { /* link "more"*/
+    color: grey !important;
+}
+.ego_unit_container { /*SPONSORED --> hidden*/
+    width: 0px !important;
+    overflow: hidden !important;
+}
+.ego_section {
+    height: 0px !important;
+}
+#facebook ._5s6c._5s6c, ._5s6c { /*notes background*/
+    background: #242424 !important;
+}
+._2kml {
+    border-color: #3e3e3e #3e3e3e #3e3e3e #3e3e3e !important; /*notes border*/
+}
+._1sdi {
+    background-color: #242424 !important; /*messenger menu text top*/
+}
+._3v_l {
+    -webkit-overflow-scrolling: touch;
+    background: #242424; /*messenger menu middle*/
+}
+._1y2l .author>strong:first-child, ._1y2l .author>span:first-child { /*chat names */
+    color: white !important;
+}
+._1y2l:hover .author>strong:first-child:hover, ._1y2l .author>span:first-child:hover { /*chat names */
+    color: white !important;
+}
+._3y6_ { /*messenger menu bottom*/
+    border-top: 1px solid #3e3e3e !important;
+    background: #242424 !important;
+}
+._1y2l .author, ._1y2l a.messagesContent:hover .author, ._1y2l a.messagesContent:hover .author span, ._1y2l .subject, ._1y2l a.messagesContent:hover .subject {
+    color: white!important;
+}
+._1y2l .jewelContent a.messagesContent { /*chat borders*/
+    border-bottom: 1px solid #3e3e3e !important; /*mouse over bottom border(?)*/
+    border-top: 1px solid #3e3e3e !important;
+}
+._1y2l li.jewelItemNew a.messagesContent {
+    background-color: #3a3a3a !important; /*new unread message*/
+}
+._57_- ._38my._5803 {
+    color: #fff !important; /*event "Details"*/
+}
+._2yav { /*event side menu */
+    background: #242424 !important;
+}
+._2yaa {
+    background: #242424 !important;
+}
+._2yau {
+    background: #242424 !important;
+}
+._7wy { /*event colors*/
+    background: #242424 !important;
+}
+._5gmv {
+    background: #242424 !important;
+}
+._36hm {
+    background: #242424 !important;
+}
+._5vl5 ._3slj {
+    border-color: #3e3e3e !important;
+}
+._47od {
+    background-color: #3e3e3e !important;
+    color: grey !important; /*event tags*/
+}
+._580i {
+    color: white !important;
+}
+._57_s {
+    border-top: 1px solid #3e3e3e !important;
+    background: #242424 !important;
+}
+a#u_0_1g {
+    background: #242424 !important;
+}
+a#u_0_1h {
+    background: #242424 !important;
+}
+a#u_0_1i {
+    background: #242424 !important;
+}
+a#u_0_1j {
+    background: #242424 !important;
+}
+.fsm.fwn.fcg { /*add friend "do you know xy"*/
+    background: #242424 !important;
+}
+.uiBoxWhite {
+    background-color: #242424 !important;
+}
+._5108 .addFriendText, ._5108 .FollowLink {
+    color: white !important;
+}
+._kyy {
+    background-color: #242424 !important;
+}
+._2ltu ._4-u2 {
+    border: 1px solid #3e3e3e !important;
+}
+._2yap ._2yav {
+    color: #ffffff !important; /*group text */ 
+}
+.uiTypeahead .wrap {
+   /* border: solid white !important; /*can't have this white because it interfears with regular search bar.*/
+    background: #242424 !important;
+}
+._4ciy ._bui .sideNavItem { /*friends hide border*/
+    border-top: 0px solid #242424 !important;
+}
+._bui ._5afe {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._3cht .text_exposed_link {
+    background: #242424 !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+._2apd {
+    background-color: #242424 !important;
+}
+._2apd, ._2ape {
+    border: 1px solid #3e3e3e !important;
+}
+._59_m {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._5yk1 {
+    background: #242424!important;
+}
+._5fez {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._585r {
+    background: #242424 !important;
+}
+._2ezy {
+    color: grey !important;
+}
+._4-i0 {
+    background-color: #242424 !important; /*delete post confirmation*/
+    border-bottom: 1px solid #3e3e3e !important;
+}
+div._5a8u {
+    background-color: #242424 !important;
+}
+._5lnf {
+    border-top: 1px solid #3e3e3e !important;
+}
+form#u_6l_1 {
+    background: #242424 !important;
+}
+._1ndf:hover {
+    background-color: #3e3e3e !important;
+}
+._1_1h {
+    background: #3e3e3e !important; /*border between post and share button*/
+}
+._sce {
+    border: 2px solid #242424 !important; /*chat window online border color*/
+}
+._3-a6._1blz ._pb2 ._2r3x ._3ekx {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+/*Discover people popup*/
+._3qe8 {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._2pio {
+    background: #242424 !important;
+}
+._4ap3 {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+    color: lightgrey !important;
+}
+._dpk {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e!important;
+}
+._37qo {
+    border-top: 1px solid #3e3e3e !important;
+}
+._517h, ._59pe:focus, ._59pe:hover {
+    background-color: #f6f7f9 !important;
+    border-color: #3e3e3e !important;
+    color: #4b4f56 !important;
+}
+ul._43o4._4470 {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._5mwd {
+    background: #242424 !important;
+}
+._2feu {
+    color: #fff !important;
+}
+._517h, ._59pe:focus, ._59pe:hover {
+    border-color: #3e3e3e !important;
+}
+._4-u3._3w-8 {
+    background: #242424 !important;
+}
+div#pagelet_timeline_main_column {
+    background: #242424 !important;
+}
+div#pagelet_timeline_medley_app_instapp {
+    background: #242424 !important;
+}
+._2w3>._30f {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._3cz {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._3t3 {
+    background: #242424 !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+._3t3:hover {
+    background: #3e3e3e !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+._5vf h3.uiHeaderTitle, ._5vf .uiHeaderActions {
+    background-color: #242424 !important;
+}
+._5vf h3.uiHeaderTitle, ._5vf .uiHeaderActions a {
+    color: #000000 !important;
+    text-shadow: 0 0px 0 #000000 !important;
+}
+._5vg {
+    border-bottom: 1px solid #3e3e3e !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+._6-6 {
+    border-right: 1px solid #3e3e3e !important;
+}
+._6_7 {
+    border-left: 1px solid #3e3e3e;
+}
+._6-6:hover, ._9rx.openToggler, ._9ry:hover, html ._9rw._54ne ._54nc {
+    background: #3e3e3e !important;
+}
+ul._54nf {
+    background: #242424 !important;
+}
+._5pwr:hover ._5pws, ._47__ ._5pws {
+    color: #fff !important;
+}
+
+
 /* GOOGLE SEARCH */
 .sfbgg { /*top border*/
     background-color: #242424 !important;
@@ -959,9 +1271,9 @@ section.section:nth-of-type(odd) .card .card-inner {
 .section-hero .section-hero-copy {
     background-color: #242424 !important;
 }
-.button, a.button {
+/*.button, a.button { /* TODO: INTERFEARS WITH FACEBOOK, FIX.
     background: #464646 !important;
-}
+}*/
 .rs-adsce .section-hero {
     background: #242424 !important;
 }
