@@ -942,7 +942,40 @@ a.fbNubButton {
 ._41nt{
     background: #242424  !important;
 }
-
+._46ye {
+    border-top: 1px solid #3e3e3e !important;
+}
+._558b ._54ak {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._569t ._54ak {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._4_dr._20h5 {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._4o-d._2phz._4o-g:hover {
+    background: #242424 !important;
+    color: grey !important;
+}
+._2p4n { /*user chat hover information text color*/
+    color: lightgrey !important;
+}
+._3x-2 ._5r69._487l._487l {
+    border: 1px solid #3e3e3e !important /*border video userpage*/;
+}
+div._9rv ._54ng {
+    border: 1px solid #3e3e3e !important; /*border userpage dropdown*/
+}
+._194v:not(._1yiw):hover{ /*Games dropdown hover color*/
+    background: #3e3e3e !important;
+}
+._5v3q ._5mxv {
+    border-top-color: #3e3e3e !important; /*extra borders*/
+}
+._22jv {
+    border-bottom: 1px solid #3e3e3e !important;
+}
 
 
 /* GOOGLE SEARCH */
@@ -1431,9 +1464,6 @@ section.section:nth-of-type(odd) .card .card-inner {
 .section-hero .section-hero-copy {
     background-color: #242424 !important;
 }
-/*.button, a.button { /* TODO: INTERFEARS WITH FACEBOOK, FIX.
-    background: #464646 !important;
-}*/
 .rs-adsce .section-hero {
     background: #242424 !important;
 }
