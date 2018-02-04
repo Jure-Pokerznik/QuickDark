@@ -1,3 +1,5 @@
-build/
 *.crx
 Thumbs.db
+.vs/
+*.pem
+*.zip
