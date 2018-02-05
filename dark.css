@@ -2,6 +2,9 @@
 :root { /*mozilla*/
     background-color: #242424 !important;
 }
+.outer-wrapper.fixed-to-top {
+    background: #242424;
+}
 html, body, #root { /*mozilla*/
     background: #242424 !important;
 }
@@ -1083,9 +1086,6 @@ a.item.clearfix:hover {
 ._5pcm {
     border-left: 2px solid #3e3e3e !important;
 }
-.hasLeftCol #contentCol {
-    border-left: 1px solid #3e3e3e !important;
-}
 #contentCol {
     background-color: #242424 !important;
 }
@@ -1276,11 +1276,111 @@ form#u_22_3 {
     background-color: #3e3e3e !important;
     border: 1px solid #3e3e3e !important;
 }
-
+._4n9- {
+    border-top: 1px solid #3e3e3e !important;
+}
+._2o49 {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._40pv {
+    background-color: #242424 !important;
+}
+._40pu {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._z6j {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._qa1 {
+    border: 1px solid #3e3e3e !important;
+}
+._g3h {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+._4yr- {
+    color: grey !important; /*page type*/
+}
+._4kt>li {
+    border-color: #3e3e3e !important;
+}
+._3v6c span._38my {
+    color: #fff !important;
+}
+._4z-w {
+    border-top: 1px solid #3e3e3e !important;
+}
+._4z-w:hover {
+    background: #3e3e3e !important;
+}
+._3etu, ._3etw {
+    background: #242424 !important; /*album border and background*/
+    border: solid 1px #3e3e3e !important;
+}
+._3zsi {
+    background: #242424 !important;
+    border-bottom: 1px solid #3e3e3e !important;
+    border-top: 1px solid #3e3e3e !important; /*recent searches*/
+}
+ul#facebar_typeahead_view_list {
+    background: #242424 !important; /*recent searches*/
+}
+a._19bs:hover {
+    background: #3e3e3e !important; /*recent searches hover*/
+}
+._417b {
+    border-bottom: 2px solid #3e3e3e !important;
+}
+._417c {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+#contentCurve {
+    border-bottom: 1px solid #3e3e3e !important; /*footer border*/
+}
+.__tw {
+    background: #3e3e3e !important; /*notifications border*/
+}
+.__tw .jewelFooter a {
+    border-top: 1px solid #3e3e3e !important; /*notifcations bottom border see all*/
+}
 
 
 
 /* GOOGLE SEARCH */
+div#cwmcwd {
+    background: #242424 !important; /* calculator*/
+}
+.cwtltbl {
+    color: #fff !important;
+}
+.cwtlwm {
+    background-color: #242424 !important;
+}
+.s2tb .spchc, .s2tb-h .spchc {
+    background: #242424 !important;
+}
+li.gsfs {
+    background: #242424 !important; /*search dropdown bottom dark*/
+}
+ul.sbsb_b {
+    background: #242424 !important;
+}
+
+
+
+.gws-local-map__map-expando {
+    background-color: #3e3e3e !important;
+}
+._G4n td {
+    border-color: #3e3e3e !important; /*travel guide*/
+}
+._e9n {
+    color: grey !important;
+}
+.vk_c.gws-trips__outer-card {
+    background: #242424 !important;
+}
 .sfbgg { /*top border*/
     background-color: #242424 !important;
 }
@@ -1859,11 +1959,246 @@ section.section:nth-of-type(odd) .card .card-inner {
 .text_exposed_root text_exposed{
     color: white !important;
 }
+.gbqfqw {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+    border-color: #3e3e3e !important;
+
+}
+/*Google flights*/
+.LJV2HGB-n-j.LJV2HGB-a-g {
+    background: #242424 !important;
+}
+.LJV2HGB-r-d {
+    background: #242424 !important;
+}
+.LJV2HGB-c-r {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-Mb-b {
+    background-color: #242424 !important;
+    white-space: nowrap;
+    min-height: 20px;
+}
+.LJV2HGB-R-b {
+    color: grey !important;
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-c-d, .LJV2HGB-c-v {
+    background: #242424 !important;
+}
+.LJV2HGB-c-d:hover, .LJV2HGB-c-v:hover {
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-kb-q {
+    background: #242424 !important;
+}
+.LJV2HGB-kb-l {
+    color: grey !important;
+}
+.LJV2HGB-wb-a {
+    background: #242424 !important;
+}
+.LJV2HGB-zb-f {
+    background: #242424 !important;
+}
+.LJV2HGB-sb-b {
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-R-g {
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-t-c {
+    border-top: 1px solid #3e3e3e !important;
+    background: #242424 !important;
+}
+.LJV2HGB-xb-f {
+    background: #242424 !important;
+}
+.LJV2HGB-r-b {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-eb-j.LJV2HGB-eb-h {
+    border-color: #3e3e3e !important;
+}
+.LJV2HGB-w-a {
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-E-b {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-c-b[disabled] {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-c-b.LJV2HGB-n-g.LJV2HGB-n-l {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-c-b.LJV2HGB-F-a.LJV2HGB-n-g.LJV2HGB-n-f {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+button.LJV2HGB-eb-j.LJV2HGB-a-g.LJV2HGB-eb-h.LJV2HGB-n-d.LJV2HGB-eb-o.LJV2HGB-eb-k.LJV2HGB-eb-p {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+button.LJV2HGB-eb-j.LJV2HGB-a-g.LJV2HGB-eb-h.LJV2HGB-n-d.LJV2HGB-eb-o.LJV2HGB-eb-l {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+button.LJV2HGB-eb-j.LJV2HGB-a-g.LJV2HGB-eb-h.LJV2HGB-n-d.LJV2HGB-eb-o.LJV2HGB-eb-f {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+button.LJV2HGB-eb-j.LJV2HGB-a-g.LJV2HGB-eb-h.LJV2HGB-n-d.LJV2HGB-eb-o.LJV2HGB-eb-k {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-eb-j.LJV2HGB-eb-h {
+    color: grey !important;
+}
+.LJV2HGB-eb-j.LJV2HGB-eb-h:hover {
+    color: grey !important;
+}
+.LJV2HGB-R-e {
+    border-top: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-w-g {
+    background: #242424 !important;
+}
+.LJV2HGB-w-j.LJV2HGB-w-w {
+    background-color: #3e3e3e !important;
+    color: #fff !important;
+}
+.LJV2HGB-w-j:hover {
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-w-d {
+    border-top: 1px solid #3e3e3e;
+}
+.LJV2HGB-T-a {
+    background: #242424 !important;
+}
+.LJV2HGB-T-d {
+    background: #242424 !important;
+}
+.LJV2HGB-T-e {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-Eb-a {
+    background: #3e3e3e !important;
+}
+.LJV2HGB-Eb-o, .LJV2HGB-Eb-p, .LJV2HGB-Eb-k {
+    background: #3e3e3e !important;
+}
+.LJV2HGB-Rb-a {
+    border-top: 1px solid grey !important; 
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-mb-a {
+    background: #242424 !important;
+}
+.LJV2HGB-Wb-a.LJV2HGB-Wb-u {
+    border-left-color: #3e3e3e !important;
+    border-right-color: #3e3e3e !important;
+    border-bottom-color: #3e3e3e !important;
+}
+.LJV2HGB-Wb-a.LJV2HGB-Wb-t {
+    border-color: #3e3e3e !important;
+}
+.LJV2HGB-Wb-p {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+a.LJV2HGB-Wb-a.LJV2HGB-Wb-p.LJV2HGB-Wb-t.LJV2HGB-Wb-u {
+    background: #242424 !important;
+}
+.LJV2HGB-Wb-t .LJV2HGB-Wb-x {
+    color: #fff !important;
+}
+.LJV2HGB-d-P .LJV2HGB-d-Y {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-Xb-a {
+    background: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-Wb-a {
+    background: #242424 !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+a.LJV2HGB-Wb-a:hover {
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-Wb-a {
+    border-color: #3e3e3e !important;
+}
+.LJV2HGB-d-X {
+    border-top: 1px solid #3e3e3e !important;
+    border-right: 1px solid #3e3e3e !important;
+    border-left: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-d-W:last-child, .LJV2HGB-d-a:last-child, .LJV2HGB-d-a.LJV2HGB-d-mb {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-d-a {
+    border-left-color: #3e3e3e !important;
+    border-right-color: #3e3e3e !important;
+}
+a.LJV2HGB-d-X.LJV2HGB-d-t {
+    background: #242424 !important;
+}
+a.LJV2HGB-d-X {
+    background: #242424 !important;
+}
+.LJV2HGB-d-Ab {
+    color: #fff !important;
+}
+.LJV2HGB-d-ac:after, .LJV2HGB-d-Jb:after, .LJV2HGB-d-Rb:after, .LJV2HGB-d-Sb:after, .LJV2HGB-d-nc .LJV2HGB-d-E:after {
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(175, 35, 35, 0)),to(#242424)) !important;
+    background-image: -moz-linear-gradient(left,rgba(255,255,255,0),#242424) !important;
+    background-image: -ms-linear-gradient(left,rgba(255,255,255,0),#242424) !important;
+    background-image: linear-gradient(left,rgba(255,255,255,0),#242424) !important;
+}
+.LJV2HGB-d-D .LJV2HGB-d-X, .LJV2HGB-d-S.LJV2HGB-d-R, .LJV2HGB-d-S:hover, .LJV2HGB-d-S:hover .LJV2HGB-d-S, .LJV2HGB-d-S.LJV2HGB-d-R .LJV2HGB-d-S, .LJV2HGB-d-D .LJV2HGB-d-S:hover {
+    background-color: #242424 !important;
+}
+.LJV2HGB-d-D .LJV2HGB-d-ac:after, .LJV2HGB-d-D .LJV2HGB-d-Jb:after, .LJV2HGB-d-D .LJV2HGB-d-Rb:after, .LJV2HGB-d-D .LJV2HGB-d-Sb:after, .LJV2HGB-d-D.LJV2HGB-d-nc .LJV2HGB-d-E:after, .LJV2HGB-d-S:hover .LJV2HGB-d-ac:after, .LJV2HGB-d-S.LJV2HGB-d-R .LJV2HGB-d-ac:after, .LJV2HGB-d-S:hover .LJV2HGB-d-Jb:after, .LJV2HGB-d-S.LJV2HGB-d-R .LJV2HGB-d-Jb:after, .LJV2HGB-d-S:hover .LJV2HGB-d-Sb:after, .LJV2HGB-d-S.LJV2HGB-d-R .LJV2HGB-d-Sb:after, .LJV2HGB-d-S:hover.LJV2HGB-d-nc .LJV2HGB-d-E:after, .LJV2HGB-d-S.LJV2HGB-d-R.LJV2HGB-d-nc .LJV2HGB-d-E:after {
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(247,247,247,0)),to(#242424)) !important;
+    background-image: -moz-linear-gradient(left,rgba(247,247,247,0),#f7f7f7) !important;
+    background-image: -ms-linear-gradient(left,rgba(247,247,247,0),#f7f7f7) !important;
+    background-image: linear-gradient(left,rgba(247,247,247,0),#f7f7f7) !important;
+}
+.LJV2HGB-t-f {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-cb-F {
+    color: #fff !important;
+}
+.LJV2HGB-cb-H {
+    color: grey !important;
+    background-color: #3e3e3e !important;
+}
+.LJV2HGB-K-h {
+    background: #242424 !important;
+}
+.LJV2HGB-K-F .LJV2HGB-K-t {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.LJV2HGB-K-M {
+    color: white !important;
+}
+.LJV2HGB-K-D .LJV2HGB-K-b {
+    color: white !important;
+}
+/*google flights end*/
+
+
 /* TODO:
 Google:
-- Fix matches in manifest to match all countries
-- Fix flights page https://www.google.com/flights/
-- Add Google Sites
 > Google Maps:
  - Suggest an edit
  - Menu close colors (jump back to white for a second) -> https://i.imgur.com/5qqYVZS.png
@@ -1879,43 +2214,7 @@ https://environment.google/
 https://www.google.org/our-work/crisis-response/
 https://diversity.google/
 https://transparencyreport.google.com/
-
-
-.BOXPGHD-c-s .BOXPGHD-c-i {
-    background: #242424 !important;
-}
-.gb_Hf>.gb_R {
-    background: #242424 !important;
-}
-.BOXPGHD-c-a {
-    background-color: #242424 !important;
-    border-bottom: 1px solid #3e3e3e !important;
-}
-h1.BOXPGHD-z-c {
-    color: white !important;
-}
-html, body, div, span, applet, object {
-    color: white !important;
-}
-
-Facebook:
-- User page dropdowns (More)
-- Pills text collor (something brighter)
-- ... button dropdown borders and hover
-- Posts borders to 3e3e3e
-- Notification button dropdown colors
-- Friends button dropdown colors
-- Messages button dropdown colors
-- Search dropdown colors
-- Search Posts from friends colors
-- Search Public Posts colors
-- Chat button color
-- Help section
-- Triangle dropdown menu colors
 - https://www.facebook.com/find-friends/browser/
-- https://www.facebook.com/settings?tab=notifications&section=on_facebook
-- https://www.facebook.com/pokerznikjure/allactivity?privacy_source=activity_log_top_menu
-- Probably A LOT more than this...
 
 Messenger:
 - Icons
