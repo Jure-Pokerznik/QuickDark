@@ -440,6 +440,12 @@ div._4-i2 { /*like popup*/
 a{
     color: grey !important;
 }
+._5yl5 {
+    color: black !important;
+}
+._1nc6 ._d97 {
+    background-color: #bdbdbd !important; /*facebook chat sent bubble color background*/
+}
 .UFICommentReactionsBling ._3emk{background:grey !important;}
 .uiHeader h2 {
     color: #ffffff !important;
@@ -718,7 +724,7 @@ form#u_6l_1 {
     border-top: 1px solid #3e3e3e !important;
 }
 ._517h, ._59pe:focus, ._59pe:hover {
-    background-color: #f6f7f9 !important;
+    background-color: #242424 !important; /*button background*/
     border-color: #3e3e3e !important;
     color: #4b4f56 !important;
 }
@@ -1344,6 +1350,47 @@ a._19bs:hover {
 .__tw .jewelFooter a {
     border-top: 1px solid #3e3e3e !important; /*notifcations bottom border see all*/
 }
+._255y ._3ho0 {
+    background-color: #242424 !important;
+}
+._4t2a {
+    background-color: #242424 !important; 
+}
+._5wvt ._5lzb, ._5wvt ._5c4d {
+    color: grey !important;
+}
+._5wvt ._5lz7, ._5wvt ._578f {
+    color: grey !important;
+}
+._57uu ._4p6i {
+    background: #242424 !important;
+}
+._5ww7._5jkw._5ww8 {
+    background: #242424 !important;
+}
+._3-a6._1blz ._6lh {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._efz, ._1fw3 {
+    color: white !important; /*story text*/
+}
+._44n_ {
+    background-color: #242424 !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1366,9 +1413,6 @@ li.gsfs {
 ul.sbsb_b {
     background: #242424 !important;
 }
-
-
-
 .gws-local-map__map-expando {
     background-color: #3e3e3e !important;
 }
@@ -2193,6 +2237,15 @@ a.LJV2HGB-d-X {
 }
 .LJV2HGB-K-D .LJV2HGB-K-b {
     color: white !important;
+}
+._Udi {
+    background: #242424 !important;
+}
+._XWk {
+    color: #fff !important;
+}
+._xdb .fl {
+    color: grey !important;
 }
 /*google flights end*/
 
