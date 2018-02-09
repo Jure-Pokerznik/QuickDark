@@ -1269,9 +1269,6 @@ form#u_a3_a {
     background-color: #242424 !important;
     border-color: #29487d !important;
 }
-.uiTypeahead .wrap {
-    border: solid #3e3e3e !important;
-}
 form#u_22_3 {
     background: #242424 !important;
 }
@@ -1399,10 +1396,19 @@ a._19bs:hover {
 ._3-a6 ._2rn3 {
     border: 1px solid #3e3e3e !important;
 }
-
-
-
-
+._5v3q ._5g-l {
+    border-bottom-color: #3e3e3e !important;
+}
+._a7s, ._fgm ._1t6k+._37uu ._610i._a7s._20h6, ._22jw._37uu ._610i._a7s._20h6, ._s_6._37uu ._610i._a7s._20h6, .uiCollapsedList ._20h6._a7s._610i._a7s._610i {
+    border-top: 1px solid #3e3e3e !important;
+}
+._5zb3 {
+    border: 1px solid #3e3e3e !important;
+}
+._52c6 {
+    border: 1px solid !important;
+    border-color: #3e3e3e #3e3e3e #3e3e3e !important;
+}
 
 
 
