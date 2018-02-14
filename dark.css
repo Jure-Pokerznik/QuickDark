@@ -1409,12 +1409,115 @@ a._19bs:hover {
     border: 1px solid !important;
     border-color: #3e3e3e #3e3e3e #3e3e3e !important;
 }
+._4ic_ {
+    background-color: #242424 !important;
+    border: .1px solid #3e3e3e !important;
+}
+._dta, ._dta a {
+    color: #fff !important;
+}
+._1klk {
+    border: 1px solid #3e3e3e !important;
+}
+._3x-2 ._5r69._1hvl {
+    border-bottom: 1px solid #3e3e3e !important;
+}
+/*facebook front page logged out*/
+._4-u5 {
+    background-color: #242424;
+}
+._6s {
+    color: #fff !important;
+}
+._58mt {
+    color: #fff !important;
+}
+._2_68 {
+    color: #fff !important;
+}
+._53jh {
+    background-image: linear-gradient(#242424, #3e3e3e 50%) !important;
+    border-bottom: 1px solid #3e3e3e !important;
+}
+.uiMenu {
+    background: #242424 !important;
+    color: white !important;
+}
+.itemAnchor{
+    border: 0px !important;
+}
+._1_1w .fwb, ._1_1w .profileLink, ._1_1w>a, ._vwp {
+    color: #fff !important;
+}
+._2ye1, ._2ye2 {
+    color: #fff !important;
+}
+._24k, ._64f, ._64f a {
+    background-color: #3e3e3e !important;
+    color: #90949c !important;
+}
+._kt {
+    border-bottom: 1px solid #3e3e3e !important;
+    border-top: 1px solid #3e3e3e !important;
+}
+.uiBoxLightblue {
+    background-color: #242424;
+    border: 1px solid #3e3e3e;
+}
+._gli, ._5und._gli {
+    border-bottom: 1px solid #3e3e3e;
+}
+._1bil {
+    color: grey !important;
+}
+._4ovi {
+    color: white !important;
+}
+._4ovj {
+    color: white !important;
+}
+._lcb {
+    background-color: #242424 !important;
+    border: 1px solid #3e3e3e !important;
+}
+._19s- {
+    color: #fff !important;
+}
+.uiMorePager .uiMorePagerPrimary {
+    background-color: #242424 !important;
+}
+.uiMorePager .uiMorePagerPrimary:hover {
+    background-color: #3e3e3e !important;
+}
+._46to {
+    color: grey !important;
+}
+._9jo a.navSubmenu, ._9jo li.navSubmenu { /*fix for main dropdown menu */
+    padding: 0 0px !important;
+}
+
+
 
 
 
 
 
 /* GOOGLE SEARCH */
+._pk._h1w {
+    color: white !important;
+}
+.vk_bk.vk_h{
+    color: #fff !important;
+}
+.vk_bk {
+    color: #fff !important;
+}
+._G2n._N2n {
+    color: white !important;
+}
+._DSo {
+    color: #fff !important;
+}
 div#cwmcwd {
     background: #242424 !important; /* calculator*/
 }
@@ -2267,8 +2370,15 @@ a.LJV2HGB-d-X {
 ._xdb .fl {
     color: grey !important;
 }
-/*google flights end*/
-
+.vk_c.vk_gy.vk_sh.card-section._MZc {
+    background: #242424 !important;
+}
+.vk_bk.vk_ans {
+    color: white !important;
+}
+body{
+    background-color: #242424 !important;
+}
 
 /* TODO:
 Google:
